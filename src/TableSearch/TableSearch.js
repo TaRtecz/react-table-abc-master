@@ -11,10 +11,10 @@ export default props => {
         <div className="input-group mb-3 mt-3">
           <div className="input-group-prepend">
             <button
-              className="btn btn-outline-secondary"
+              className="btn btn-outline-primary"
               onClick={() => props.onSearch(value)}
             >
-              Search
+              Поиск
             </button>
           </div>
           <input
