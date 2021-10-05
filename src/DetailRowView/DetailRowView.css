@@ -1,0 +1,11 @@
+.box__row{
+    border: 1px solid #dcdcdc;
+    background: #dcdcdc2e;
+    max-width: 450px;
+    margin-bottom: 50px;
+}
+.box__row .box__row-textarea{
+    width: 80%;
+    margin: 0 45px;
+    max-height: 120px;
+}
